@@ -155,8 +155,7 @@ The repository includes common benchmark functions:
 
 * Sphere
 * Rastrigin
-* Rosenbrock
-* Ackley
+
 
 These functions help evaluate convergence speed, stability, and robustness.
 
