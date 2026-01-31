@@ -10,43 +10,6 @@ The repository is suitable for:
 
 ---
 
-## 📁 Repository Structure (MATLAB-Oriented)
-
-```
-Optimization-EAs/
-│
-├── GA/
-│   ├── ga_main.m              # Main GA script
-│   ├── ga_initialize.m        # Population initialization
-│   ├── ga_selection.m         # Selection operators
-│   ├── ga_crossover.m         # Crossover operators
-│   ├── ga_mutation.m          # Mutation operators
-│   ├── ga_fitness.m           # Fitness / objective function
-│   └── README.md              # GA-specific explanation
-│
-├── PSO/
-│   ├── pso_main.m             # Main PSO script
-│   ├── pso_initialize.m       # Swarm initialization
-│   ├── pso_update.m           # Velocity & position update
-│   ├── pso_fitness.m          # Cost / objective function
-│   └── README.md              # PSO-specific explanation
-│
-├── test_functions/
-│   ├── sphere.m
-│   ├── rastrigin.m
-│   ├── rosenbrock.m
-│   └── ackley.m
-│
-├── results/
-│   ├── convergence_plots/
-│   └── logs/
-│
-└── README.md                  # This file
-```
-
-Each algorithm is **modularized using MATLAB `.m` files**, so every step of the optimization process is easy to follow, debug, and modify.
-
----
 
 ## 🧬 Genetic Algorithm (GA) – MATLAB Implementation
 
