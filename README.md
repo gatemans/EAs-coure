@@ -198,6 +198,8 @@ This repository prioritizes:
 * Constraint handling techniques
 * Multi-objective optimization (NSGA-II, MOPSO)
 * Adaptive parameter control
+* Set PID controller with PSO
+* Set Neural network hyper parameter w PSO
 
 ---
 
