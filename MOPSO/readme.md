@@ -25,14 +25,16 @@ The optimization is performed in minimization form:
 Moment is calculated as:
 
 ## Output
-- Pareto front (Moment vs Cost)
-- Convergence history
-- Selected optimal design (knee point)
+ Pareto front (Moment vs Cost)
+ Convergence history
+ Selected optimal design (knee point)
 
 - Pareto Front
+  
 ![Pareto Front](pareto.png)
 
 - convergence
+  
 ![con Front](con.png)
 
 ## Author
