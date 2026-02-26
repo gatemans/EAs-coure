@@ -1,7 +1,6 @@
-# Discrete MOPSO for RC Beam Design
-
-MATLAB implementation of a **Discrete Multi-Objective Particle Swarm Optimization (MOPSO)**
-for selecting optimal reinforced concrete (RC) beam designs from a predefined database.
+# Discrete MOPSO 
+This repository contains a discrete Multi‑Objective Particle Swarm Optimization (MOPSO) implementation in MATLAB for reinforced concrete (RC) beam design selection.
+The algorithm selects an optimal beam design from a predefined database by considering structural performance and cost efficiency simultaneously.
 
 ## Objectives
 - Maximize bending moment capacity  
