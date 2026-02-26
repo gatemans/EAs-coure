@@ -29,6 +29,11 @@ Moment is calculated as:
 - Convergence history
 - Selected optimal design (knee point)
 
+- Pareto Front
+![Pareto Front](pareto.png)
+
+- convergence
+![con Front](con.png)
 
 ## Author
 Mohammad Mahdi Khaligh
