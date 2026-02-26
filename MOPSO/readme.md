@@ -29,9 +29,6 @@ Moment is calculated as:
 - Convergence history
 - Selected optimal design (knee point)
 
-## Run
-
-No additional toolboxes required.
 
 ## Author
 Mohammad Mahdi Khaligh
